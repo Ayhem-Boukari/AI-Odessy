@@ -6,7 +6,7 @@ That's why I built **SocialSpark**. It's a simple tool that watches Reddit for y
 
 ## How It Works
 
-![Logo](./images/1.png)
+![Logo](./1.png)
 
 
 ![Logo](./2.png)
