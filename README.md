@@ -6,9 +6,11 @@ That's why I built **SocialSpark**. It's a simple tool that watches Reddit for y
 
 ## How It Works
 
-![Trends AI Screenshot 1](./1.png)
+![Logo](./images/1.png)
 
-![Trends AI Screenshot 2](./2.png)
+
+![Logo](./2.png)
+
 
 ## Getting Started
 
