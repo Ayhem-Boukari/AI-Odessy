@@ -1,4 +1,4 @@
-# AI Odessy
+# AI Odyssey
 
 Getting inspiration for writing content is a pain. You end up spending hours reading through posts, trying to connect the dots, and probably missing a bunch of stuff anyway.
 
@@ -6,11 +6,9 @@ That's why I built **SocialSpark**. It's a simple tool that watches Reddit for y
 
 ## How It Works
 
-![Logo](./1.png)
+![Screenshot 1](/1.png)
 
-
-![Logo](./2.png)
-
+![Screenshot 2](/2.png)
 
 ## Getting Started
 
@@ -27,3 +25,4 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
